@@ -6,12 +6,19 @@ data_450 A folder with 9 files containing 50 texts (Facebook comments) each. Fil
 data_450-with-annotations Annotated data according to the Lewandowska-Tomaszczyk et al. simplified taxonomy of offensive language [1]. The data is produced by the inception platform [2] and comes in the inception format. File names correspond to taxonomy levels (top-down) as follows:
 
 Target 00      offensive language or not
+
 Target 01      offensive language target presence
+
 Target 02      offensive language target type
+
 Target 03      vulgarity
+
 Target 04      offensive language type: insult or hate speech or none of the two
+
 Target 04A     discrediting or not
+
 Target 04B     threat or not
+
 Targets 05, 05A, 05B  offensive language aspects (sexism, ableism, etc.)
 
 
