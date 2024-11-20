@@ -21,6 +21,10 @@ Target 04B     threat or not
 
 Targets 05, 05A, 05B  offensive language aspects (sexism, ableism, etc.)
 
+If you use this data, please cite:
+
+Liebeskind, C., Vanetik, N. and Litvak, M., 2023. Hebrew offensive language taxonomy and dataset. Lodz Papers in Pragmatics, 19(2), pp.325-351.
+
 
 References:
 
