@@ -21,6 +21,8 @@ Target 04B     threat or not
 
 Targets 05, 05A, 05B  offensive language aspects (sexism, ableism, etc.)
 
+Hebrew-abusive_words_by_category.xlsx  The list of abusive words in Hebrew divided into categories according to offensive language aspects (sexism, ableism, etc.). The list includes plural and gender forms; some words belong to more than one category.
+
 If you use this data, please cite:
 
 Liebeskind, C., Vanetik, N. and Litvak, M., 2023. Hebrew offensive language taxonomy and dataset. Lodz Papers in Pragmatics, 19(2), pp.325-351.
